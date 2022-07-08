@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/di"
+        android:title="Request Donation" />
+    <item
+        android:id="@+id/dm"
+        android:title="Donate Money" />
+    <item
+        android:id="@+id/lo"
+        android:title="LogOut" />
+    <item
+        android:id="@+id/AI"
+        android:title="Add Items" />
+</menu>
